@@ -3,12 +3,20 @@
 import socket
 import json
 from emoji import demojize
+import logging
+import pandas as pd
+from datetime import datetime
+import re
+
+
 
 server = "irc.chat.twitch.tv"
 port = 6667
 nickname = 'testbot'
 token = "oauth:lzpec51zyiyrl9k1ayx1hl3r3m09li"
-channel = '#yassuo'
+channel = '#lec'
+
+logging.basicConfig(level=logging.DEBUG,format = '%(asctime)s | %(message)s', datefmt= '%Y-%m-%d_%H:%M:%S', handlers= [logging.FileHandler('chat.log', encoding= 'utf-8')])
 
 data = {}
 data["message"] = []
@@ -34,7 +42,9 @@ while True:
     elif len(response) > 0:\
         #Logging
         #data["message"].append({"username":response.})
+        logging.info(demojize(response))
         print(demojize(response))
         #print(response)
 
 sock.close()
+

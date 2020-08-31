@@ -1,0 +1,23 @@
+
+---Generating text after Epoch: 99
+----Diversity:0.3
+----Generating with seed:
+"morphintime this morphintime static morphintime to morphintime support morphintime fnatic"
+ morphintime spam morphintime this morphintime static morphintime to morphintime support morphintime fnatic morphintime spam morphintime this morphintime static morphintime to morphintime help morphintime fnatic morphintime morphintime spam morphintime this morphintime static morphintime to morphintime help morphintime fnatic morphintime morphintime spam morphintime this morphintime static morphintime to morphintime help morphintime fnatic
+----Diversity:0.4
+----Generating with seed:
+"morphintime this morphintime static morphintime to morphintime support morphintime fnatic"
+ morphintime spam morphintime this morphintime static morphintime to morphintime support morphintime fnatic morphintime spam morphintime this morphintime static morphintime to morphintime support morphintime fnatic morphintime spam morphintime this morphintime static morphintime to morphintime support morphintime fnatic morphintime spam morphintime this morphintime static morphintime to morphintime help morphintime fnatic morphintime morphintime
+----Diversity:0.5
+----Generating with seed:
+"morphintime this morphintime static morphintime to morphintime support morphintime fnatic"
+ morphintime spam morphintime this morphintime static morphintime to morphintime support morphintime fnatic morphintime spam morphintime this morphintime static morphintime to morphintime support morphintime fnatic fnaticfnatic spam morphintime this morphintime static morphintime to morphintime support morphintime fnatic morphintime spam morphintime this morphintime static morphintime to morphintime help morphintime fnatic morphintime .
+----Diversity:0.6
+----Generating with seed:
+"morphintime this morphintime static morphintime to morphintime support morphintime fnatic"
+ morphintime spam morphintime this morphintime static morphintime to morphintime support morphintime fnatic morphintime spam morphintime this morphintime static morphintime to morphintime support morphintime fnatic morphintime spam morphintime this morphintime static morphintime to morphintime support morphintime fnatic morphintime spam morphintime this morphintime static morphintime to morphintime help morphintime fnatic morphintime morphintime
+----Diversity:0.7
+----Generating with seed:
+"morphintime this morphintime static morphintime to morphintime support morphintime fnatic"
+ morphintime spam morphintime this morphintime static morphintime to morphintime help morphintime fnatic morphintime spam morphintime this morphintime static morphintime to morphintime help morphintime fnatic morphintime morphintime spam morphintime this morphintime static morphintime to morphintime help morphintime fnatic morphintime morphintime spam morphintime this morphintime static morphintime to morphintime help morphintime fnatic
+================================================================================
